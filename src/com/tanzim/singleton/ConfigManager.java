@@ -12,7 +12,6 @@ public class ConfigManager {
     private Map<String, Object> settings = new HashMap<>();
     private static ConfigManager instance = new ConfigManager();
 
-
     private ConfigManager() {
     }
 
